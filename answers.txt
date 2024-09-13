@@ -5,3 +5,8 @@ Answer: Git enables rolling back to previous versions of a file and making exper
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to almost any field. One example is advertising since companies want to market their goods or services as effectively as possible. Applying data science techniques can allow companies to assess how effective certain ads are and improve their advertising and consequently their profits.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging tries to apply the commits from one branch to another starting from when they diverged. Rebasing simply moves a branch's starting point to the head of another branch. Merging affects the branch being merged onto, but not the branch being merged. Rebasing affects the branch being rebased, but not the branch the first branch is being rebased onto.
+
