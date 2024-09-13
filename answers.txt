@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git enables rolling back to previous versions of a file and making experimental changes on a branch without affecting the main branch until the changes are done. It also enables collaboration for open source projects and the like.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to almost any field. One example is advertising since companies want to market their goods or services as effectively as possible. Applying data science techniques can allow companies to assess how effective certain ads are and improve their advertising and consequently their profits.
