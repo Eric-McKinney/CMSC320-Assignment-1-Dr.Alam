@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git enables rolling back to previous versions of a file and making experimental changes on a branch without affecting the main branch until the changes are done. It also enables collaboration for open source projects and the like.
